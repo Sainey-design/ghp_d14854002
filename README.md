@@ -15,3 +15,5 @@ This project analyses dengue case data and calculates the total number of dengue
 The total dengue cases reported in 2023 were:26661
 
 # Calculate total dengue cases for 2023
+
+# Calculate total dengue cases for 2023
